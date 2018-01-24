@@ -1,0 +1,39 @@
+2018-01-24 10:13:10,687 - Dynamics365Auth - INFO - Starting Dynamics365Auth service...
+2018-01-24 10:13:10,687 - Dynamics365Auth - INFO - Getting Dynamics365Auth params...
+2018-01-24 10:13:10,687 - Dynamics365Auth - INFO - TENANT_ID = 6871727a-5747-424a-b9d4-39a621930267
+2018-01-24 10:13:10,687 - Dynamics365Auth - INFO - CLIENT_ID = 012b7898-6c8b-41c0-bb58-11817fb6d6f7
+2018-01-24 10:13:10,687 - Dynamics365Auth - INFO - USER_NAME = jflood@lixar.com
+2018-01-24 10:22:44,136 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 10:22:44,582 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 10:23:51,145 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 10:23:51,891 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 10:24:27,697 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 10:24:28,573 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 10:24:41,484 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 10:24:41,992 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:17:00,761 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:17:02,008 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:23:46,790 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:23:47,211 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:29:18,458 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:29:19,106 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:30:31,288 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:30:31,833 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:39:44,587 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:39:45,027 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:39:59,958 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:40:00,439 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:41:11,906 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:41:13,233 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:42:36,900 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:42:37,631 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:45:59,050 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:45:59,499 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:46:50,535 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:46:51,204 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:47:53,674 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:47:54,353 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:48:02,788 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:48:03,578 - Dynamics365Auth - INFO - The 'access_token_info' was received.
+2018-01-24 11:49:09,017 - Dynamics365Auth - INFO - The 'access_token_info' is requested.
+2018-01-24 11:49:09,536 - Dynamics365Auth - INFO - The 'access_token_info' was received.
